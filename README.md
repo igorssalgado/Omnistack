@@ -1,2 +1,2 @@
 # Omnistack
-rocketseat javascript nodejs mongodb curse
+rocketseat javascript nodejs mongodb course
